@@ -1,0 +1,27 @@
+
+Problem Statement:
+
+To accurately predict the future closing value of a given stock across a given period of time in the future
+
+About The Idea:
+
+Traditional machine learning models have a poor historical record in financial predictions due to their inability to learn new patterns
+on the data implicitly.
+
+We have improved upon this idea and conceived a Recurrent Neural Network which can intelligently learn upon new patterns and ideas without 
+any external stimulus.
+
+It constantly feeds it's results in itself to generate a better outcome based on slight principles of Reinforcement Learning
+
+Upon using various datasets the model will surely yield promising results with low bias and low variance
+
+
+Tech Stack:
+
+Python , Machine Learning , Tensorflow , Keras
+
+Implementation:
+
+We have used the Tensorflow library of Deep Learning to develop a model with Recurrent layers whose performance has been enhanced using Hyperparameter optimization using the specifiv library Keras Tuner.
+
+The model needs to be fed a variety of Data initially, for training purposes and after some cross-validation the model began to learn a geometric rate
