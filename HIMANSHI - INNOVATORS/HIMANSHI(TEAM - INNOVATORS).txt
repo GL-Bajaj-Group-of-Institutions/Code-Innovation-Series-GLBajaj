@@ -1,0 +1,38 @@
+TEAM NAME: INNOVATORS
+TEAM LEADER: HIMANSHI GUPTA
+TEAMMATE: PANKAJ VERMA
+
+IDEA DESCRIPTION:
+
+
+Here we are creating a platfrom for both patients and doctors, where both communities may connect with each other easily though internet.
+Our idea is to resolve the PROBLEM STATEMENT which is,
+Create Solutions to deal with these two major challenges faced by the patients:
+    ~ Enabling a patient-centered information exchange system.     
+    ~ Personal medical assistant.
+
+Here we are come up with an amazing application where both problems can be solved easily with many benifits.
+
+FEATURES:
+1.  Patients of particular disease(category) will be able to share their experiences, problem and success story of getting cured successfully with other patients having same disease(category).
+2.  Patients may resolve their queries through AI chat bot(Help box).
+3.  Patients would be able to contact their local area doctors on whom they trust blindly.
+4.  Facility for patients to interact with their medical assistant through video call.
+5.  Consult with your medical assistant at your home whenever you have time (no need to take appointments and wait in line)..
+6.  Patients may get knowledge of other diseases as well by searching it on our portal.
+
+
+BENIFITS :
+1. Patients feel free to consult with their local area known doctors.
+2. Platform of trusted and verified doctors.
+3. Videocall helps in better communication between doctor and patients
+4. Shared stories and experiences through patients having same disease will help other patients to get motivation, self confidence and faith on doctors that they can also get cured(reduce stress and depression because of disease).
+5. Doctors may get employment through our idea.
+
+
+EXECUTION :
+1. Doctors will make their account and upload their documents / certificates for verification to get trusted and verified profile on our portal.
+2. Patients will make account and search doctors through:
+  (i)  location search results : show profiles of doctors near their location will be shown.
+  (ii) disease category search results : show profiles of doctors who have speacialization in that particular disease category.
+3. Here patients have also facility to see other patients shared experiences and stories of how they get cured , what they do actually and fight back to get well soon. 
